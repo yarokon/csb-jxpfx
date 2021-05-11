@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,KACE,aACF","file":"main.72ff9c73.chunk.css","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n.row {\n  margin: 20px 0;\n}\n"]}

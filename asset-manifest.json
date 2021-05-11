@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yarokon.github.io/csb-jxpfx/static/css/main.72ff9c73.chunk.css",
+    "main.js": "https://yarokon.github.io/csb-jxpfx/static/js/main.10328220.chunk.js",
+    "main.js.map": "https://yarokon.github.io/csb-jxpfx/static/js/main.10328220.chunk.js.map",
+    "runtime-main.js": "https://yarokon.github.io/csb-jxpfx/static/js/runtime-main.3d1523da.js",
+    "runtime-main.js.map": "https://yarokon.github.io/csb-jxpfx/static/js/runtime-main.3d1523da.js.map",
+    "static/js/2.4c023e0c.chunk.js": "https://yarokon.github.io/csb-jxpfx/static/js/2.4c023e0c.chunk.js",
+    "static/js/2.4c023e0c.chunk.js.map": "https://yarokon.github.io/csb-jxpfx/static/js/2.4c023e0c.chunk.js.map",
+    "index.html": "https://yarokon.github.io/csb-jxpfx/index.html",
+    "static/css/main.72ff9c73.chunk.css.map": "https://yarokon.github.io/csb-jxpfx/static/css/main.72ff9c73.chunk.css.map",
+    "static/js/2.4c023e0c.chunk.js.LICENSE.txt": "https://yarokon.github.io/csb-jxpfx/static/js/2.4c023e0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d1523da.js",
+    "static/js/2.4c023e0c.chunk.js",
+    "static/css/main.72ff9c73.chunk.css",
+    "static/js/main.10328220.chunk.js"
+  ]
+}
